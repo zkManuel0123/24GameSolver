@@ -1,4 +1,4 @@
-# 24GameSolver
+# 24GameSolver-LLM
 A research project exploring the capabilities of Large Language Models in solving the 24 Game through fine-tuning. This project investigates whether LLMs can learn mathematical reasoning and problem-solving skills specific to the 24 Game challenge. This project investigates whether LLMs can learn mathematical reasoning and problem-solving skills specific to the 24 Game challenge.
 🎯 Project Overview
 The 24 Game is a mathematical card game where players need to find a way to manipulate four numbers using basic arithmetic operations to arrive at 24. This project attempts to teach this capability to language models through fine-tuning with Chain-of-Thought (CoT) reasoning.
